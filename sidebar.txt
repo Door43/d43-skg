@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[skg:home|Door43 (skg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-skg|d43-skg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-skg/archive/master.zip|d43-skg.zip]]
+
+**Recent Changes**
+{{changes>ns = skg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/skg|Ethnologue data]]
+
